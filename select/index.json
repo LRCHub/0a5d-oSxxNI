@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Alice in 冷凍庫",
+  "base_artist": "ウォルピスカーター",
+  "createdAt": "2025-12-02T07:18:43.246556Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Alice In Vain",
+      "artist": "Sleeper",
+      "has_synced": false,
+      "path": "select/01_Alice_In_Vain_Sleeper.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Alice In Wonderland",
+      "artist": "Gazebo",
+      "has_synced": false,
+      "path": "select/02_Alice_In_Wonderland_Gazebo.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Check My Brain (Alice In Chains Cover)",
+      "artist": "L.A. Guns",
+      "has_synced": true,
+      "path": "select/03_Check_My_Brain_(Alice_In_Chains_Cover)_L.A._Guns.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Check My Brain [(Alice In Chains Cover)]\u0000(Alice In Chains Cover)",
+      "artist": "L.A. Guns",
+      "has_synced": false,
+      "path": "select/04_Check_My_Brain_[(Alice_In_Chains_Cover)]\u0000(Alice_In_Chains_Cover)_L.A._Guns.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Alice's Theme (From \"Alice in Wonderland\"/Soundtrack Version)",
+      "artist": "Danny Elfman",
+      "has_synced": false,
+      "path": "select/05_Alice's_Theme_(From__Alice_in_Wonderland_Soundtrack_Version)_Danny_Elfman.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Alice In Hulaland",
+      "artist": "Willie Nelson with Merle Haggard",
+      "has_synced": false,
+      "path": "select/06_Alice_In_Hulaland_Willie_Nelson_with_Merle_Haggard.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Alice In Hulaland",
+      "artist": "Willie Nelson & Merle Haggard",
+      "has_synced": false,
+      "path": "select/07_Alice_In_Hulaland_Willie_Nelson_&_Merle_Haggard.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "In A World Of My Own/Very Good Advice - From \"Alice In Wonderland\"",
+      "artist": "Jhené Aiko",
+      "has_synced": true,
+      "path": "select/08_In_A_World_Of_My_Own_Very_Good_Advice_-_From__Alice_In_Wonderland_Jhené_Aiko.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Nutshell (Live Alice In Chains Cover With Seether)",
+      "artist": "Shinedown",
+      "has_synced": true,
+      "path": "select/09_Nutshell_(Live_Alice_In_Chains_Cover_With_Seether)_Shinedown.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Alice In Wonderland",
+      "artist": "Neil Sedaka",
+      "has_synced": true,
+      "path": "select/10_Alice_In_Wonderland_Neil_Sedaka.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Goodbye Alice In Wonderland",
+      "artist": "Jewel",
+      "has_synced": false,
+      "path": "select/11_Goodbye_Alice_In_Wonderland_Jewel.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Alice in My Fantasies",
+      "artist": "Funkadelic",
+      "has_synced": true,
+      "path": "select/12_Alice_in_My_Fantasies_Funkadelic.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "This Is Mongol (Warrior Souls) [feat. William DuVall of Alice In Chains]",
+      "artist": "The HU",
+      "has_synced": false,
+      "path": "select/13_This_Is_Mongol_(Warrior_Souls)_[feat._William_DuVall_of_Alice_In_Chains]_The_HU.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Alice in N.Y. (feat. Kagamine Len&Kagamine Rin&Hatsune Miku&Megurine Luka&MEIKO&KAITO&Gackpoid&Megpoid&MAYU&IA)",
+      "artist": "Hitoshizuku & Yama",
+      "has_synced": false,
+      "path": "select/14_Alice_in_N.Y._(feat._Kagamine_Len&Kagamine_Rin&Hatsune_Miku&Megurine_Luka&MEIKO&_Hitoshizuku_&_Yama.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Alice in 冷凍庫",
+      "artist": "ウォルピスカーター",
+      "has_synced": false,
+      "path": "select/pl_01_Alice_in_冷凍庫_ウォルピスカーター.txt"
+    }
+  ]
+}
